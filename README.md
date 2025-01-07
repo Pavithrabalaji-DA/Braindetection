@@ -6,7 +6,7 @@ The image data that was used for this project is Brain MRI images for Brain tumo
 
 ## Want to run this project in your computer
 - **Follow these Steps**
- 1. Clone or Download (https://github.com/rchirag101/BrainTumorDetectionFlask/archive/refs/heads/master.zip)
+ 1. Clone or Download
   2. Open the terminal/CMD in project directory
   3. Then create virtual environment using this command: 
   
